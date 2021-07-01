@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" src="img/maincare.png" width="250" />
+<img align="left" src="maincare.png" width="250" />
 
 ### Ahoy! <br />
 I'm Julien and I'm a 7+ yrs iOS engineer.
